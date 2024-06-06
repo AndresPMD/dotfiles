@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git clone https://github.com/AndresPMD/dotfiles.git
-
 mv $HOME/dotfiles/.tmux.conf $HOME/.tmux.conf
 
 # Define the path to the script you want to run
