@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mv $HOME/dotfiles_AM/.tmux.conf $HOME/.tmux.conf
+mv $HOME/dotfiles_AM/tmux.conf $HOME/.tmux.conf
 
 # Define the path to the script you want to run
 CLONE_SCRIPT="$HOME/dotfiles_AM/clone_tpm.sh"
